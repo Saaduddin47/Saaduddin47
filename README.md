@@ -45,9 +45,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🤖 **AI Project 1** | Intelligent recommendation system | Python, TensorFlow, Flask |
-| 📊 **Data Analytics** | Real-time data visualization dashboard | React, D3.js, FastAPI |
-| 🌐 **Web App** | Full-stack social platform | Next.js, MongoDB, AWS |
+| 🛡️ **[Credit Card Fraud Detection](link-to-repo)** | Desktop app with ML-powered fraud detection using Random Forest. Intuitive Tkinter GUI for dataset upload, model training & visualization | Python, Tkinter, Random Forest, scikit-learn |
+| 🤖 **[Multi-LLM Prompt App](link-to-repo)** | Streamlit web app integrating OpenAI GPT-4o & Google Gemini 1.5. Text generation, DALL·E 3 image creation with interactive UI | Streamlit, OpenAI API, Google Gemini, DALL·E 3 |
+| 📄 **[PDF Summarizer](link-to-repo)** | AI-powered document summarization app that processes PDFs and delivers concise summaries in seconds | LangChain, OpenAI, Streamlit, Python |
 
 *Check out my pinned repositories below for more!* ⬇️
 
