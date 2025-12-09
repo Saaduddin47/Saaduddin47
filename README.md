@@ -175,11 +175,13 @@ I'm always excited to work on:
 
 ### 💭 Random Dev Wisdom
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Saaduddin47&icon=2&color=6)
+<img src="https://visitcount.itsvg.in/api?id=Saaduddin47&icon=2&color=6" />
+
+</div>
 
 ### ☕ Fuel My Coding Sessions
 
