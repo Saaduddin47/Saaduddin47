@@ -191,12 +191,20 @@ I'm always excited to work on:
 <a href="https://buymeacoffee.com/azhaan47" target="_blank">
   <img 
     src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000&labelColor=FFDD00"
-    alt="Buy Me a Coffee"
     height="60"
   />
 </a>
 
+<br/><br/>
+
+<!-- Subtle Animated Glow -->
+<img 
+  src="https://user-images.githubusercontent.com/74038190/216656997-2e90b3d0-42d4-4dff-b6cc-cc4a9d94b1d2.gif"
+  width="220"
+/>
+
 </div>
+
 
 ---
 
