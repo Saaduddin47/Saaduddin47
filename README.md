@@ -109,17 +109,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saaduddin47&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Saaduddin47&theme=tokyonight&hide_border=true" height="170" alt="streak graph"  />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00F7F7&center=true&vCenter=true&width=320&lines=Grinding+Code+24%2F7;Building+Cool+Stuff+🚀;Gen-Z+Dev+Energy+⚡" />
+  
+  <br/>
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Saaduddin47&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=Saaduddin47&theme=tokyonight&hide_border=true"/>
+
+  <br/>
+
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaduddin47&theme=tokyonight&hide_border=true&layout=compact"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaduddin47&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saaduddin47&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy graph"  />
-</div>
 
 ---
 
