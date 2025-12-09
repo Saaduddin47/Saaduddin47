@@ -196,16 +196,11 @@ I'm always excited to work on:
 </a>
 
 <br/><br/>
-
 <!-- Subtle Animated Glow -->
 <img 
   src="https://user-images.githubusercontent.com/74038190/216656997-2e90b3d0-42d4-4dff-b6cc-cc4a9d94b1d2.gif"
   width="220"
 />
-
 </div>
----
-
-*   "Code is like humor. When you have to explain it, it's bad."* – Cory House
-
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 </div>
