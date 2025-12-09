@@ -109,19 +109,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00F7F7&center=true&vCenter=true&width=320&lines=Grinding+Code+24%2F7;Building+Cool+Stuff+🚀;Gen-Z+Dev+Energy+⚡" />
-  
-  <br/>
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Saaduddin47&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=Saaduddin47&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00F7F7&center=true&vCenter=true&width=320&lines=Grinding+Code+24%2F7;Building+Cool+Stuff;Gen-Z+Dev+Energy" />
 
-  <br/>
+<br/><br/>
 
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaduddin47&theme=tokyonight&hide_border=true&layout=compact"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Saaduddin47&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://streak-stats.demolab.com?user=Saaduddin47&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaduddin47&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 
 ---
