@@ -179,13 +179,24 @@ I'm always excited to work on:
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=Saaduddin47&icon=2&color=6" />
+<img src="https://komarev.com/ghpvc/?username=Saaduddin47&label=Profile%20Views&color=0e75b6&style=flat" />
+
 
 </div>
 
+<div align="center">
+
 ### ☕ Fuel My Coding Sessions
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/azhaan47)
+<a href="https://buymeacoffee.com/azhaan47" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000&labelColor=FFDD00"
+    alt="Buy Me a Coffee"
+    height="60"
+  />
+</a>
+
+</div>
 
 ---
 
